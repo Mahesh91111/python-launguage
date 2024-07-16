@@ -91,4 +91,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#Copyright &copy; 2024 by @saikiran-gundala | All Rights Reserved.
+#Copyright &copy; 2024 by @Mahesh-Malli | All Rights Reserved.

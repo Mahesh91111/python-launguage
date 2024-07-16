@@ -31,4 +31,4 @@ def main():
 # Call the main function
 main()
 
-#Copyright &copy; 2024 by @saikiran-gundala | All Rights Reserved.
+#Copyright &copy; 2024 by @Mahesh-Malli | All Rights Reserved.
